@@ -22,7 +22,7 @@ This notebook enables a voice assistant inside Google Colab that:
 
 ## Getting Started in Colab
 
-1. Run all cells in `voice_assistant_colab.ipynb`.
+1. Run all cells in `voice_ai_assistant.ipynb`.
 2. Record your voice using the browser-based mic recorder.
 3. It will transcribe your audio, run it through the AI model, and speak the result.
 
