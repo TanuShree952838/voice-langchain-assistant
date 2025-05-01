@@ -4,3 +4,8 @@ gtts
 playsound
 speechrecognition
 pyaudio
+transformers
+torch
+pydub
+gtts
+ipython
